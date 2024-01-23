@@ -1,0 +1,15 @@
+
+==========================
+Product code = OD007
+product title = ODinPedPaLow
+Name of artist = Skyrim
+Issue date = 2011-15-32
+The company = Steam
+Price = 700.00
+==========================
+Product code = J3Cha
+product title = 3cha500
+Name of artist = Job-j3cha
+Issue date = 2019.11.15
+The company = CommpanyNaHEE
+Price = 500.00
